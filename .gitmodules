@@ -1,0 +1,3 @@
+[submodule "uart_debug_cpp_driver"]
+	path = uart_debug_cpp_driver
+	url = https://github.com/Dhia510/uart_debug_cpp_driver.git
